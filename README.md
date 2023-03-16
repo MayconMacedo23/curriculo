@@ -1,18 +1,13 @@
 
 
 
-# Dados Pessoais:
 
--- Endereço : Amelia Rosa Marques
 
--- Numero : 21
 
--- Bairro : Janio Quadros
+## Experiências 
 
--- Complento : Antiga Rua 49
+-- Auxiliar Técnico Eletrônico 
+(8 Meses- responsável pela fabricação de iscas de cargas de cigarros,configurações e manutenções)
 
--- Email : maycondeoliveira616@gmail.com
-
--- Telefone : (14) 33017162
-
--- Celular : (14) 998425400
+-- Auxiliar de Instalação de Câmeras
+(Atual- responsável pela configuração de câmeras e redes)
