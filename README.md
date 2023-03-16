@@ -1,11 +1,9 @@
-
-
-
-
-
+## CURRICULO MAYCON DE OLIVEIRA MACEDO
 
 
 # Dados Pessoais:
+
+--Nome Completo : Maycon de Oliveira Macedo
 
 -- Data de Nascimento : 23/04/2001
 
@@ -46,3 +44,7 @@
 --- Auxiliar de Instalação de Câmeras
 
 (Atual- responsável pela configuração de câmeras e redes)
+
+## Sobre Mim
+
+-- Ingressante no curso de Análise e Desenvolvimento de Sistemas, aspirante da tecnologia e sempre buscando conhecimento na área
