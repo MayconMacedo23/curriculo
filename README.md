@@ -4,12 +4,9 @@
 
 
 
-## Experiências 
 
--- Auxiliar Técnico Eletrônico 
 
-(8 Meses- responsável pela fabricação de iscas de cargas de cigarros,configurações e manutenções)
 
--- Auxiliar de Instalação de Câmeras
+## Sobre Mim
 
-(Atual- responsável pela configuração de câmeras e redes)
+-- Ingressante no curso de Análise e Desenvolvimento de Sistemas, aspirante da tecnologia e sempre buscando conhecimento na área
