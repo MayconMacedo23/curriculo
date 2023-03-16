@@ -21,4 +21,3 @@
 
 -- Celular : (14) 998425400
 
-## Curriculo Maycon de Oliveira Macedo
